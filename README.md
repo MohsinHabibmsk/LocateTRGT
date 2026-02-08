@@ -11,9 +11,6 @@
   Designed for authorized penetration testing, red-team exercises, security research, and ethical demonstrations.
 </p>
 
-<p align="center">
-  <img src="https://via.placeholder.com/1000x500/0a0a0a/00f2fe?text=LocateTRGT+-+Intelligence+Dashboard" alt="Dashboard Preview" width="900">
-</p>
 
 ## ⚠️ Important Legal & Ethical Warning
 
